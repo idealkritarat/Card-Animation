@@ -1,0 +1,5 @@
+.card:nth-child(1) {
+    background:
+        radial-gradient(transparent, #00000050),
+        url('https://as2.ftcdn.net/v2/jpg/02/61/38/09/1000_F_261380978_NmorUnT6lXRBxubNtS6Y8vsW1BC7Xmzk.jpg');
+}
