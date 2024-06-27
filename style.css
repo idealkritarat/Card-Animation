@@ -9,13 +9,15 @@ body {
         radial-gradient(transparent, #00000050),
         url('https://as2.ftcdn.net/v2/jpg/02/61/38/09/1000_F_261380978_NmorUnT6lXRBxubNtS6Y8vsW1BC7Xmzk.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .card:nth-child(4) {
     background:
         radial-gradient(transparent, #00000050),
         url('https://www.bu.edu/files/2018/12/forest-snowpack.jpg');
-    background-size: 780px;
+    background-size: cover;
+    background-position: center;
 }
 
 .card:nth-child(6) {
@@ -23,6 +25,7 @@ body {
         radial-gradient(transparent, #00000050),
         url('https://storage.googleapis.com/pod_public/1300/136194.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .card:nth-child(8) {
@@ -30,4 +33,5 @@ body {
         radial-gradient(transparent, #00000050),
         url('https://i.pinimg.com/originals/30/01/6b/30016bcfe8288a17df830603966ef8ac.jpg');
     background-size: cover;
+    background-position: center;
 }
